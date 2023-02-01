@@ -9,10 +9,10 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/vn-flag.png" height="13"> Vietnamese</a></td></tr>
 </table>
-- 🔬 &nbsp; I graduated with a Master's degree in Computer Science, majoring in Software Development. <br>
+- 🔬 &nbsp; I graduated with a Master's degree in Computer Science.<br>
 - 🔭 &nbsp; I'm a Full-stack developer at <a href="https://dxc.com/us/en">DXC Technology</a>. <br>
 - 📫 &nbsp; How to reach me: <a href="mailto: hoang.minhhieu7693@gmail.com">hoang.minhhieu7693@gmail.com</a>. <br>
-- 📝 &nbsp; Checkout my Resume: <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV EN.pdf">English version</a> & <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV FR.pdf">Version Français</a>
+- 📝 &nbsp; Checkout my Resume: <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV EN.pdf">English version</a> and <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV FR.pdf">Version Français</a>
 
 <hr/>
 
