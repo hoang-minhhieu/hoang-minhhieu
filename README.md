@@ -5,14 +5,14 @@
 
 ### 🔍 About me
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/vn-flag.png" height="13"> Vietnamese</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/gb.svg" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr.svg" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/vn.svg" height="13"> Vietnamese</a></td></tr>
 </table>
-- 🔬 &nbsp; I graduated with a Master's degree in Computer Science.<br>
-- 🔭 &nbsp; I'm a Full-stack developer at <a href="https://dxc.com/us/en">DXC Technology</a>. <br>
-- 📫 &nbsp; How to reach me: <a href="mailto: hoang.minhhieu7693@gmail.com">hoang.minhhieu7693@gmail.com</a>. <br>
-- 📝 &nbsp; Checkout my Resume: <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV EN.pdf">English version</a> and <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV FR.pdf">Version Français</a>
+- 🔬 I graduated with a Master's degree in Computer Science.<br>
+- 🔭 Currently working as Full-stack developer at <a href="https://dxc.com/us/en">DXC Technology</a>. <br>
+- 📫 How to reach me: <a href="mailto: hoang.minhhieu7693@gmail.com">hoang.minhhieu7693@gmail.com</a>. <br>
+- 📝 Checkout my Resume: <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV EN.pdf">English version</a> and <a href="https://github.com/hoang-minhhieu/hoang-minhhieu/blob/master/CV FR.pdf">Version Français</a>
 
 <hr/>
 
@@ -27,7 +27,6 @@
 **Back-end**
 <img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=339933" alt="dotnet logo" title="dotnet" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 
 **Databases**
