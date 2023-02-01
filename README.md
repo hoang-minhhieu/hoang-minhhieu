@@ -2,13 +2,14 @@
 [![Linkedin: minh-hieu-hoang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minh-hieu-hoang-a600a456/)](https://www.linkedin.com/in/minh-hieu-hoang-a600a456/)
 
 <hr/>
-
-### 🔍 About me
 <table align="right">
  <tr><td><a href="README.md"><img src="images/gb.svg" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr.svg" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/vn.svg" height="13"> Vietnamese</a></td></tr>
 </table>
+
+### 🔍 About me
+
 - 🔬 I graduated with a Master's degree in Computer Science.<br>
 - 🔭 Currently working as Full-stack developer at <a href="https://dxc.com/us/en">DXC Technology</a>. <br>
 - 📫 How to reach me: <a href="mailto: hoang.minhhieu7693@gmail.com">hoang.minhhieu7693@gmail.com</a>. <br>
