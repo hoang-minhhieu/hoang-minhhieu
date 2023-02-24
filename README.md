@@ -5,7 +5,7 @@
 <table align="right">
  <tr><td><a href="README.md"><img src="images/gb.svg" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr.svg" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/vn.svg" height="13"> Vietnamese</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/vn.svg" height="13"> Tiếng Việt</a></td></tr>
 </table>
 
 ### 🔍 About me
